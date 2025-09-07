@@ -1,4 +1,3 @@
-# Minimal image to run the Python producer/consumer if desired
 FROM python:3.11-slim
 
 WORKDIR /app
