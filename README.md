@@ -1,5 +1,8 @@
 # Kafka + Python (docker-compose) — Local Demo
 
+[![Python CI](https://github.com/SidharthaManriquez44/stream-store/actions/workflows/ci.yml/badge.svg)](https://github.com/SidharthaManriquez44/stream-store/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/SidharthaManriquez44/stream-store/graph/badge.svg?token=XReaSasRWe)](https://codecov.io/gh/SidharthaManriquez44/stream-store)
+
 This project gives you a **ready-to-run** Apache Kafka broker (KRaft mode) with a web UI and two simple Python apps (producer & consumer).
 
 ## What you get
